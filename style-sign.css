@@ -1,0 +1,90 @@
+#header{
+    background-color:#007bff;
+    width: 1535px;
+    height: 90px;
+    
+}
+#header-title{
+    color: linen;
+    font-weight: bold;
+    padding: 15px;
+}
+#outter-form{
+    background-color: linen;
+    width: 600px;
+    height: 490px;
+    border: 3px solid;
+    border-radius: 20px;
+    /* border-color: #007bff ; */
+    border-color: #007bff;
+    margin-left: 400px;
+    margin-top: 50px;
+}
+#inner-form{
+    padding: 20px;
+    
+    
+}
+#form{
+    margin-top:30px ;
+}
+.form-control{
+    width: 530px;
+    border-color: #007bff;
+}
+#Login{
+    font-weight: bold;
+    font-family: fantasy;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+#btn-log{
+    margin-left: 220px;
+    width: 100px;
+ }
+ #footer{
+    margin-left: 580px;
+    margin-top: 120px;
+    font-weight: bold;
+    position: absolute;
+    bottom: 0;
+}
+#add-button{
+    margin-left: 950px;
+    margin-bottom: 300px;
+    
+}
+.card{
+    margin-top: 120px;
+    margin-left: 30px;
+    width: 300px;
+    height: 295px
+}
+.card-title{
+    color: #007bff
+}
+#logout{
+    
+        
+        margin-left: 1100px;
+    
+   
+}
+.navbar-brand{
+    background-color:#f8f9fa;
+    color: black;
+    border-radius: 12px;
+    text-align: center;
+    width:180px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+#welcome-message{
+    margin-top: 35px ;
+    margin-left: 35px;
+    color: #f8f9fa;
+    font-size: larger;
+    font-family: fantasy;
+    font-weight: bolder;
+}
