@@ -1,0 +1,113 @@
+#outter-form{
+    background-color: linen;
+    width: 600px;
+    height: 600px;
+    border: 3px solid;
+    border-radius: 20px;
+    /* border-color: #007bff ; */
+    border-color: #007bff;
+    margin-left: 400px;
+    margin-top: 20px;
+
+}
+
+#footer{
+    margin-left: 580px;
+    margin-top: 30px;
+    font-weight: bold;
+    position: absolute;
+    bottom: 0;
+}
+
+#register{
+    font-weight: bold;
+    font-family: fantasy;
+    margin-top: 20px;
+}
+
+#inner-form{
+    padding: 20px;
+    
+    
+}
+#form{
+    margin-top:30px ;
+}
+.form-control{
+    width: 530px;
+    border-color: #007bff;
+}
+#btn-reg{
+   margin-left: 220px;
+   width: 100px;
+}
+#header{
+    background-color:#007bff;
+    width: 1535px;
+    height: 90px;
+    
+}
+#header-title{
+    color: linen;
+    font-weight: bold;
+    padding: 15px;
+}
+.error{
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+    position: relative;
+padding: 0.75rem 1.25rem;
+margin-bottom: 1rem;
+border: 1px solid transparent;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+border-radius: 0.25rem;
+}
+.succ{
+    color: #155724;
+background-color: #d4edda;
+border-color: #c3e6cb;
+position: relative;
+padding: 0.75rem 1.25rem;
+margin-bottom: 1rem;
+border: 1px solid transparent;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+border-radius: 0.25rem;
+}
+.navbar-brand{
+    background-color:#f8f9fa;
+    color: black;
+    border-radius: 12px;
+    text-align: center;
+    width:180px;
+    padding: 10px;
+    margin-top: 10px;
+}
+#users-text{
+    color: #f8f9fa;
+    margin: 10px;
+}
+#users-div{
+    background-color: #007bff;
+    border-color: black;
+    border-radius: 12px;
+    border-style: solid;
+    margin: 10px;
+}
+#delete-btn{
+    margin: 10px;
+}
+
+#logout{
+    
+        
+    margin-left: 1100px;
+
+
+}
