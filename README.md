@@ -1,6 +1,6 @@
 # Pizzarea-Store
 This is a simple-functionality website which is connected to a database, admin account which can delete users, login &amp; register functions. 
-Some fumctionalities are hard-coded and that is because i needed to enforce my php, mysql, js and ddatabase skills but not my frontend xd.
+Some functionalities are hard-coded and that is because i needed to enforce my php, mysql, js and database skills but not my frontend skills xd.
 
 Login Panel:
 
@@ -25,5 +25,8 @@ Authorized access to the admin panel :
 Simple Interface for a logged-in user:
 
 ![image](https://user-images.githubusercontent.com/58134995/146109415-8d6d2bc0-1738-4b32-947c-dbf682f9c8ba.png)
+
+
+if you want to know what is the admin account password, just think ... what are we selling ?
 
 
